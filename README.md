@@ -1,1 +1,1 @@
-# 파이썬, 넘파이, 판다스 공부
+# Python, Numpy, Pandas
